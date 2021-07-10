@@ -29,6 +29,10 @@
       width: 50%;
     }
   }
+  &__pcentr {
+    color: black;
+    margin: 10px;
+  }
 
 }
 
